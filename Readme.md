@@ -7,5 +7,7 @@ Currently only text is supported images and other supports will be added in futu
 # Build
 
 `git clone github.com/sap200/Notes.git`
+
 `go get fyne.io/fyne/v2/...`
+
 `go build`
